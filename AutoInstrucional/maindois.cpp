@@ -183,3 +183,4 @@ lista *cadastraCategoria(){
         printf("\n\nTOMOU NO CU!\n\n");
     }
 }
+
